@@ -1,0 +1,2 @@
+This folder contains only a fraction of all the data and is used purely to showcase
+the progress of the project. 
