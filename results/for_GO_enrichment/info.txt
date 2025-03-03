@@ -1,0 +1,4 @@
+#These are the outputs files from the fetch_AGIDs.py skript. 
+
+ADIDs are stored in the last column of the table.
+These are the Y IDs that are have more than 10 Significant hits - GO enrichment will be performed with them.
