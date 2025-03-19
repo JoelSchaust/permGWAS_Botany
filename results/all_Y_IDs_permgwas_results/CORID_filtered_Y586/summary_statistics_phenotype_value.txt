@@ -1,0 +1,19 @@
+Summary Statistics:
+## Genotype file:	/storage/full-share/permGWAS/data/Expressionsdaten_neu_2.h5
+## Phenotype file:	/storage/full-share/permGWAS/data/joel/y_filtered_for_CORidsv2/CORID_filtered_Y586.csv
+## Phenotype:	phenotype_value
+## Kinship file:	/storage/full-share/permGWAS/data/Cor.csv
+## Number of individuals:	327
+## Number of SNPs:	23059
+## Model:	lmm
+## MAF threshold:	0
+## Number of permutations:	100
+## permutation method:	x
+## v_g estimate in null model:	0.4813908059308413
+## v_e estimate in null model:	0.13264102657887553
+## Narrow-sense heritability estimate:	0.783983468679897
+## Bonferroni threshold (1% significance level):	4.336701504835422e-07
+## Bonferroni threshold (5% significance level):	2.1683507524177113e-06
+## Permutation-based threshold (1% significance level):	3.1491968070323344e-06
+## Permutation-based threshold (5% significance level):	4.784706956254105e-06
+## Total time:	165.20843148231506 s
